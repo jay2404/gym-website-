@@ -1,0 +1,10 @@
+h2{
+    color: red ;
+}
+li {
+    list-style-type: square;
+}
+.special{
+    color:cyan  ;
+    font-style: italic;
+}
